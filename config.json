@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "building-rest-apis-fastapi",
+      "title": "Construindo APIs REST com FastAPI",
+      "description": "Construa uma API REST para gerenciar tarefas com rotas HTTP, validação e respostas adequadas.",
+      "path": "assignments/building-rest-apis-fastapi",
+      "dueDate": "2026-12-01",
+      "attachments": [
+        {
+          "name": "Código Inicial da API",
+          "file": "main.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
