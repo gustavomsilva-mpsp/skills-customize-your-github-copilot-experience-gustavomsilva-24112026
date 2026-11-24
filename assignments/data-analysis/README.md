@@ -1,4 +1,4 @@
-# 📘 Tarefa: Análise de Dados
+# 📘 Assignment: Data Analysis
 
 ## 🎯 Objective
 
