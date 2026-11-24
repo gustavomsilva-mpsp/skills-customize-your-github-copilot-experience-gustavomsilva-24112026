@@ -1,12 +1,12 @@
-# 📘 Assignment: [Assignment Title]
+# 📘 Atividade: [Título da Atividade]
 
-## 🎯 Objective
+## 🎯 Objetivo
 
-[Brief description of what the student will learn or accomplish in this assignment]
+[Breve descrição do que o aluno irá construir ou alcançar nesta atividade]
 
-## 📝 Tasks
+## 📝 Tarefas
 
-### 🛠️ [Task Title 1]
+### 🛠️	[Título da Tarefa 1]
 
 #### Descrição
 [Descrição do que precisa ser feito pelo aluno nesta tarefa]
@@ -18,7 +18,8 @@ O programa concluído deve:
 - [Requisito 2]
 - [Requisito 3]
 
-### 🛠️ [Task Title 2]
+
+### 🛠️	[Título da Tarefa 2]
 
 #### Descrição
 [Descrição do que precisa ser feito pelo aluno nesta tarefa]
