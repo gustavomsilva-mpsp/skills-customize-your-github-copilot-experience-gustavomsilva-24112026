@@ -72,6 +72,13 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "unit-testing-csharp-xunit",
+      "title": "Unit Testing in C# with xUnit",
+      "description": "Practice automated unit testing in C# with xUnit, including Arrange-Act-Assert and edge cases.",
+      "path": "assignments/unit-testing-csharp-xunit",
+      "dueDate": "2026-12-01"
     }
   ]
 }
